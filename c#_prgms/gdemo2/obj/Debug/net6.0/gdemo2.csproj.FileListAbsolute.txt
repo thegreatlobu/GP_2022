@@ -1,0 +1,15 @@
+D:\GP_2022\c#_prgms\gdemo2\bin\Debug\net6.0\gdemo2.exe
+D:\GP_2022\c#_prgms\gdemo2\bin\Debug\net6.0\gdemo2.deps.json
+D:\GP_2022\c#_prgms\gdemo2\bin\Debug\net6.0\gdemo2.runtimeconfig.json
+D:\GP_2022\c#_prgms\gdemo2\bin\Debug\net6.0\gdemo2.dll
+D:\GP_2022\c#_prgms\gdemo2\bin\Debug\net6.0\gdemo2.pdb
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.csproj.AssemblyReference.cache
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.AssemblyInfoInputs.cache
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.AssemblyInfo.cs
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.csproj.CoreCompileInputs.cache
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.dll
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\refint\gdemo2.dll
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.pdb
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\gdemo2.genruntimeconfig.cache
+D:\GP_2022\c#_prgms\gdemo2\obj\Debug\net6.0\ref\gdemo2.dll

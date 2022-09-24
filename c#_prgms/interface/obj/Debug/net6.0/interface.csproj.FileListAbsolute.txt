@@ -1,0 +1,5 @@
+D:\GP_2022\c#_prgms\interface\obj\Debug\net6.0\interface.csproj.AssemblyReference.cache
+D:\GP_2022\c#_prgms\interface\obj\Debug\net6.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP_2022\c#_prgms\interface\obj\Debug\net6.0\interface.AssemblyInfoInputs.cache
+D:\GP_2022\c#_prgms\interface\obj\Debug\net6.0\interface.AssemblyInfo.cs
+D:\GP_2022\c#_prgms\interface\obj\Debug\net6.0\interface.csproj.CoreCompileInputs.cache

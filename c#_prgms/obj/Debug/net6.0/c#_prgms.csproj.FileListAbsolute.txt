@@ -1,0 +1,15 @@
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.csproj.AssemblyReference.cache
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.AssemblyInfoInputs.cache
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.AssemblyInfo.cs
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.csproj.CoreCompileInputs.cache
+D:\GP_2022\c#_prgms\bin\Debug\net6.0\c#_prgms.exe
+D:\GP_2022\c#_prgms\bin\Debug\net6.0\c#_prgms.deps.json
+D:\GP_2022\c#_prgms\bin\Debug\net6.0\c#_prgms.runtimeconfig.json
+D:\GP_2022\c#_prgms\bin\Debug\net6.0\c#_prgms.dll
+D:\GP_2022\c#_prgms\bin\Debug\net6.0\c#_prgms.pdb
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.dll
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\refint\c#_prgms.dll
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.pdb
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\c#_prgms.genruntimeconfig.cache
+D:\GP_2022\c#_prgms\obj\Debug\net6.0\ref\c#_prgms.dll
